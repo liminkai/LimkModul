@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		BA45E3A5225B232600CE34A5 /* LiminkaiTest.m in Sources */ = {isa = PBXBuildFile; fileRef = BA45E3A4225B232600CE34A5 /* LiminkaiTest.m */; };
 		BAC6D766225B196100B5B044 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = BAC6D765225B196100B5B044 /* AppDelegate.m */; };
 		BAC6D769225B196100B5B044 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BAC6D768225B196100B5B044 /* ViewController.m */; };
 		BAC6D76C225B196100B5B044 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BAC6D76A225B196100B5B044 /* Main.storyboard */; };
@@ -17,8 +16,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		BA45E3A3225B232600CE34A5 /* LiminkaiTest.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LiminkaiTest.h; sourceTree = "<group>"; };
-		BA45E3A4225B232600CE34A5 /* LiminkaiTest.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LiminkaiTest.m; sourceTree = "<group>"; };
 		BAC6D761225B196100B5B044 /* LimkModulDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LimkModulDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BAC6D764225B196100B5B044 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		BAC6D765225B196100B5B044 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -65,8 +62,6 @@
 				BAC6D765225B196100B5B044 /* AppDelegate.m */,
 				BAC6D767225B196100B5B044 /* ViewController.h */,
 				BAC6D768225B196100B5B044 /* ViewController.m */,
-				BA45E3A3225B232600CE34A5 /* LiminkaiTest.h */,
-				BA45E3A4225B232600CE34A5 /* LiminkaiTest.m */,
 				BAC6D76A225B196100B5B044 /* Main.storyboard */,
 				BAC6D76D225B196300B5B044 /* Assets.xcassets */,
 				BAC6D76F225B196300B5B044 /* LaunchScreen.storyboard */,
@@ -149,7 +144,6 @@
 				BAC6D769225B196100B5B044 /* ViewController.m in Sources */,
 				BAC6D774225B196300B5B044 /* main.m in Sources */,
 				BAC6D766225B196100B5B044 /* AppDelegate.m in Sources */,
-				BA45E3A5225B232600CE34A5 /* LiminkaiTest.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
